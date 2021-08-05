@@ -3,9 +3,9 @@ import PropTypes from 'prop-types';
 
 import { Container, Row, Col } from 'react-bootstrap';
 
-import CurrentDay from '../CurrentDay';
-import CurrentDayDescription from '../CurrentDayDescription';
-import UpcomingDaysForecast from '../UpcomingDaysForecast';
+import CurrentDay from './CurrentDay';
+import CurrentDayDescription from './CurrentDayDescription';
+import UpcomingDaysForecast from './UpcomingDaysForecast';
 
 import styles from './Forecast.module.css';
 
