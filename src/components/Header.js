@@ -1,17 +1,5 @@
 import React from 'react';
-
-const styles = {
-    heading: {
-        padding: "2rem",
-        textAlign: "center",
-        fontWeight: 900,
-        fontSize: "2rem",
-    },
-
-    light: {
-        fontWeight: 100,
-    },
-};
+import styles from './Header.module.css';
 
 const Header = () => (
     <h1 className={styles.heading}>
