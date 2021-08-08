@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# Weather App
+
+_A responsive web app that uses the Meta Weather API to describe and forecast weather_
+
+<br/>
+
+**Link to the Web App:** []()
+
+<br/>
+
+**Tech Stack**
+* React
+* MetaWeather API
+* CSS
+
+<br/>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
